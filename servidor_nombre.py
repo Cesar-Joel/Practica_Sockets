@@ -11,7 +11,7 @@ ss.listen(15)
 print("Esperando conexión...")
 
 while True:
-    if cont < 1:
+    if cont < 6:
         cs, addr = ss.accept()
         print("Conexión aceptada desde:", str(addr))
         id = cs.recv(1024)
