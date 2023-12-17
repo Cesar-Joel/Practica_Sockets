@@ -32,3 +32,39 @@ Servidores de Operaciones (suma.py, resta.py, multiplicacion.py, division.py, mo
 5. El servidor de operaciones realizará la operación y enviará el resultado de vuelta al cliente a través del servidor central.
 6. El cliente mostrará el resultado de la operación en pantalla.
 7. Repetir los pasos 2-6 según sea necesario.
+## Datos de prueba.
+Suma: 3 + 4
++ Resultado esperado: 7
++ Salida de la aplicación:
+
+![image](https://github.com/Cesar-Joel/Practica_Sockets/assets/79111276/7ab674e7-e9a0-4438-b5cd-872c04380bef)
+
+Resta: 3 − 4
++ Resultado esperado: -1
++ Salida de la aplicación:
+
+![image](https://github.com/Cesar-Joel/Practica_Sockets/assets/79111276/569b21d3-47b5-41af-9dda-e04cb352e593)
+
+Multiplicación: 3 ∗ 4
++ Resultado esperado: 12
++ Salida de la aplicación:
+
+![image](https://github.com/Cesar-Joel/Practica_Sockets/assets/79111276/ab6e64e3-6df0-4c90-8223-e013bb8c2495)
+
+División: 3/4
++ Resultado esperado: 0.75
++ Salida de la aplicación:
+
+![image](https://github.com/Cesar-Joel/Practica_Sockets/assets/79111276/8d6276c2-d5f0-417c-acc6-5989516359ee)
+
+Modulo: 6/4
++ Resultado esperado: 2
++ Salida de la aplicación:
+
+![image](https://github.com/Cesar-Joel/Practica_Sockets/assets/79111276/4fb7c03f-c168-40b0-a25d-6d56b8e92d41)
+
+Potencia: 3^4
++ Resultado esperado: 81
++ Salida de la aplicación:
+
+![image](https://github.com/Cesar-Joel/Practica_Sockets/assets/79111276/b8506fc1-ef2d-4943-8b90-9a8796654ad1)
